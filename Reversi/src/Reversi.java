@@ -1,6 +1,9 @@
 import java.util.Scanner;
 import java.util.Random;
-
+// Aditya Patel
+// Mr.Indelicato
+// APCSA Final Project
+//
 //**********************************************************************
 //**
 //**						  APCS Reversi
@@ -471,7 +474,7 @@ public class Reversi
 	
 	public static void machineStrategy(int playerColor)
 	//**********************************************************************
-	//** machineStrategy
+	//** machineStrategy made by Aditya Patel.😊👌
 	//**	Determines the best place to move.
 	//**
 	//** iterate through board and check for a move that is valid. 
